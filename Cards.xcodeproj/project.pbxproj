@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		881D34EA28AB720E002BB488 /* BezierExperiments.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BezierExperiments.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		886085CC28AA24480057C8FB /* Cards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cards.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		886085CF28AA24480057C8FB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		886085D128AA24480057C8FB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +25,7 @@
 		886085D828AA24480057C8FB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		886085DB28AA24480057C8FB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		886085DD28AA24480057C8FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		886085E328AA24940057C8FB /* ViewExperiments.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ViewExperiments.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,8 @@
 			children = (
 				886085CF28AA24480057C8FB /* AppDelegate.swift */,
 				886085D128AA24480057C8FB /* SceneDelegate.swift */,
+				881D34EA28AB720E002BB488 /* BezierExperiments.playground */,
+				886085E328AA24940057C8FB /* ViewExperiments.playground */,
 				886085D328AA24480057C8FB /* ViewController.swift */,
 				886085D528AA24480057C8FB /* Main.storyboard */,
 				886085D828AA24480057C8FB /* Assets.xcassets */,
